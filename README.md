@@ -9,6 +9,8 @@
 Explorando os Recursos de IA Generativa com Copilot e OpenAI  [DIO](https://dio.me)
 
 Projeto com o objetivo  de particarmos o aprendizado ao decorrer do curso.
+- [Imagens](Inputs)
+- [Arquivos ](Output) 
 
 
 ## 💻 Tecnologias utilizadas no projeto
